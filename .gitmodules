@@ -1,0 +1,6 @@
+[submodule "pymuse"]
+	path = PyMuse
+	url = https://github.com/prevostcorentin/pymuse
+[submodule "midiface"]
+	path = MIDIface
+	url = https://github.com/prevostcorentin/midiface
