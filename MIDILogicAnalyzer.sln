@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyMuse", "PyMuse\PyMuse.pyproj", "{BBC8267A-571C-4FD5-A572-AF99159BE440}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MIDIface", "MIDIface\MIDIface.vcxproj", "{8228BCB9-79AB-429B-A1FF-213799BBF71C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MIDIface", "midiface\MIDIface.vcxproj", "{8228BCB9-79AB-429B-A1FF-213799BBF71C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MIDIAnalyzer", "MIDIAnalyzer\MIDIAnalyzer.vcxproj", "{5B0FDD5B-D5F7-4E0E-B870-BF71EA7BB071}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MIDIFaceUnitTest", "MIDIFaceUnitTest\MIDIFaceUnitTest.vcxproj", "{67530325-1423-4C78-A041-D11E91246656}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MIDIFaceUnitTest", "midiface\MIDIFaceUnitTest\MIDIFaceUnitTest.vcxproj", "{67530325-1423-4C78-A041-D11E91246656}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
